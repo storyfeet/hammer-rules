@@ -1,0 +1,70 @@
+King Restopat
+	tp:Role
+	Trait:Manipulative	
+	Skill:Strategist
+
+Prince Robert
+	tp:Role
+	Trait:Pacifist
+	Skill:Eloquent
+
+Princess Charmina
+	tp:Role
+	tx:Immune to Persuasion
+	Trait:Rebelious	
+	Skill:Stealth
+
+Ivy Malady
+	tp:Role
+	tx:Handmaid to ??
+	Trait:Honest
+	Skill:Tailor
+
+
+Commander Slimes
+	tp:Role
+	tx:Army Commander
+	Skill:Swordsman
+	Trait:Violent
+
+Ray Storping
+	tp:Role
+	tx:Body Guard
+	Skill:Vigilance
+	Trait:Pessemistic
+
+Snide Rool
+	tp:Role
+	tx:Mechanic
+	Skill:Pilot Anything
+	Trait:Reckless	
+
+Granny Wildersnax
+	tp:Role
+	tx:Grandmother of ??
+	Skill:Came Prepared
+	Trait:Impulsive
+
+Ramble Grenkin
+	tp:Role
+	tx:Traveling Worker
+	Skill:MacGyver
+	Trait:Brave
+
+Styles Malone
+	tp:Role
+	tx:Detective
+	Skill:Deception Detector
+	Trait:Smelly
+
+Goose Rogers
+	tp:Role
+	tx:Pirate Captain/Bandit Leader.
+	Skill:Brawler
+	Trait:Uncaring
+
+Loris McDonson
+	tp:Role
+	tx:Diplomat
+	Skill:Epathic
+	Trait:Secretive

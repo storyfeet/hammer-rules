@@ -1,0 +1,75 @@
+True Love
+	tp:Goal
+	tx:Do you know to who? If not, how will you know it's real?
+
+Prove Valor
+	tp:Goal
+	tx:To Whom? Why do you care? What is Valor to you?
+
+Regain Acceptance
+	tp:Goal
+	tx: Who's acceptance? Perhaps of a family member or clan? Why did you lose it?
+
+More Power
+	tp:Goal
+	tx:Significantly increase your influence in the world. What is power? How will you use it?
+
+Vengeance
+	tp:Goal
+	tx:Someone has wronged you. Who? How? What will satisfy your need for revenge?
+
+Aquire Artifact
+	tp:Goal
+	tx:What artifact? Where is it kept? Is it on the move? What is it's value to you?
+
+Stolen Hearts
+	tp:Goal
+	tx:Win the romantic affection of at least 3 other characters
+
+Rescue
+	tp:Goal
+	tx:Who needs rescuing? Where are they? How do you know them? Why do you care?
+
+Get Married
+	tp:Goal
+	tx:To anyone in particular? Will anyone do? What are your criteria?
+
+Protector
+	tp:Goal
+	tx:Keep who alive? Why do you care?
+
+Escort
+	tp:Goal
+	tx:Get who safely to where? What do you hope will happen when you get there?
+
+The Best for You
+	tp:Goal
+	tx:The best for someone is not always what they think.  Who do you want the best for? What will you do to help them achieve it?
+
+Take the Throne
+	tp:Goal
+	tx:Take back, or just take? From who? For who? What throne? Does someone need to die? 
+
+Head of the clan
+	tp:Goal
+	tx:Your family/clan is full of quarels and infighting.\nBut if you were leader... 
+
+Make Money
+	tp:Goal
+	tx:How much is enough?\n What will you do with it? Can you buy an Island?
+
+Fame
+	tp:Goal
+	tx:Everyone in the world should know your name. Why? What makes you special? What will you be famous for?
+
+A Quiet Life
+	tp:Goal
+	tx:Out of the bustle, you want to live in peace. What is stopping you? Why do you keep journeying? When will it be complete?
+
+Expose Secret
+	tp:Goal
+	tx:You know someone is hiding something. Who needs to know? How will you prove it?
+
+The Hunt
+	tp:Goal
+	tx:You will track someone, or something down, no matter the cost. What will you do when you catch them? Why do they matter to you?

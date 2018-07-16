@@ -1,0 +1,3 @@
+config:
+    cards:traits.lz,skills.lz,goals.lz, events.lz, roles.lz,scenarios.lz,whodunit.lz,newcards.lz
+	out:../out/cards

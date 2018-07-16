@@ -1,0 +1,128 @@
+Lock Pick
+    tp:Skill
+	tx:Open any door, chest or other lock.
+
+Swordsman
+    tp:Skill
+	tx:You win any fight as long as you have a sword.
+
+Stealth
+    tp:Skill
+	tx:You can go anywhere unnoticed.
+
+Mechanic
+    tp:Skill
+	tx:Can fix anything with moving parts.
+
+Polyglot
+    tp:Skill
+	tx:Can speak to anyone, anywhere.
+
+Persuasive
+    tp:Skill
+	tx:NPCs want to do what you say. You may Coerce other players with 2 Dice to Persuade their PC. 
+
+Dodge
+    tp:Skill
+	tx:Can evade punches, projectiles, and nasty chores.
+
+Barter
+    tp:Skill
+	tx:Trades with NPCs are always in your favour. You may Coerce other players with 1 dice to make lopsided trades with their characters.
+
+Brawler
+    tp:Skill
+	tx:You always come out on top in group fights or hand to hand combat.
+
+Tailor
+    tp:Skill
+	tx:Can dress themselves and anyone else to fit any occasion
+
+Artist
+    tp:Skill
+	tx:Great works of art open all kinds of doors. Copies can be quite persuasive too.
+
+Actor
+    tp:Skill
+	tx:Conman. Take on any role that suits you.
+
+Etiquet:
+    tp:Skill
+	tx:The upper eschalons of society will believe you are one of them. Even if you are not.
+
+Strategist
+    tp:Skill
+	tx:Plans you make involving more than one person are likely to succeed, as long as everyone plays their part.
+
+Medic
+    tp:Skill
+	tx:Can heal any ailment, as long as you can get hold of the needed ingredients/equipment. 
+
+Sniper
+    tp:Skill
+	tx:Projectiles always hit their mark, whatever that mark might be.
+
+MacGyver
+    tp:Skill
+    tx:Can combine any two things into something 
+
+Explosives Expert
+    tp:Skill
+	tx:Can break through anything as long as you don't mind a bit of noise? May need equipment.
+
+Pilot
+    tp:Skill
+    tx:Can drive any vehicle 
+
+Jumper
+    tp:Skill
+    tx:Can make massive and precise leaps
+
+Vigilance
+	tp:Skill
+	tx:Nothing can sneak up on you.
+
+Walking Compass
+	tp:Skill
+	tx:You always know where you are, and the direction you need to go.
+
+Observant
+	tp:Skill
+	tx:You Spot clues everywhere
+
+Perceptive
+	tp:Skill
+	tx:You can spot deceit any where.
+
+Strong
+	tp:Skill
+	tx:You can lift incredibly heavy things, and break others.
+
+Wisdom
+	tp:Skill
+	tx:Your advice always works, and you listen to it yourself.
+
+
+Charming
+    tp:Skill
+	tx:Your silky voice and way with words draw people to love you. Especially good at making friends with old ladies.
+
+Came Prepared
+	tp:Skill
+	tx:Remembered to pack exactly what you'd need. Can produce almost anything from your bag.
+
+Empathic
+    tp:Skill
+	tx:Just looking at someone you can understand their feelings about any issue, and you can feel much of their life story too.
+
+Swimmer
+	tp:Skill
+	tx:You can swim long distances, and quickly. Even upstream is no problem. Up Sewers ... if you want.
+
+Pick Pocket
+	tp:Skill
+	tx:You can take anything from anyone without them noticing. PCs cannot react without giving you two dice.
+
+Speed
+	tp:Skill
+	tx:You can get anywhere quicker than anyone else. You can react fast, to any physical action.
