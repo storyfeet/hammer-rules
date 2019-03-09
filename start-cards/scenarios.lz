@@ -1,15 +1,20 @@
 Secret Meeting:
     tp:Scenario
-	tx:What year is it? Who has called the meeting? What are you discussing? Where are you meeting?
+	tx:Who has called the meeting? What are you discussing? Where are you meeting?
 
 Boat Trip:
     tp:Scenario
-	tx:What year is it? Where are you going? Who hired/owns the boat? What kind of boat is it.
+	tx:Where are you going? Who hired/owns the boat? What kind of boat is it.
 
 Prison Cell
 	tp:Scenario
-	tx:What year is it? What country are you in? Can you see any guards?
+	tx:What country are you in? Can you see any guards?
 
 Banquet:
 	tp:Scenario
-	tx:What year is it? Who is holding the banquet? What is the occasion?
+	tx:Who is holding the banquet? What is the occasion?
+
+Deserted Island:
+	tp:Scenario
+	tx:How did you get here? 
+
