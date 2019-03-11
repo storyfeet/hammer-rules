@@ -37,7 +37,11 @@ Equipment
 Key Concept: Bidding
 -----------------
 
-In order to become the Games Master (GM) Players must bid dice. This is done by each player hiding all of their dice. Choosing a number to bid and putting them forward in a closed fist.
+All conflict resolution in Shoehorn Circle is done by bidding dice.
+
+For example, Becoming the next Games Master (GM) or Succeeding of Failing at an action.
+
+To do this, all players eligable to bid, begin by hiding all of their dice, choosing a number to bid, putting that many dice forward in their closed fist.
 
 Once all players have put forward their bid. All players reveal how many dice they bid, and then roll them. The player with the highest roll wins the bid, and pays those dice to the bank.
 
@@ -96,7 +100,7 @@ A round of play begins with players bidding to become GM.
 
 The new GM then:
 
-First Resolves any unresolved actions from the previous GMs. They can allow any players action to succeed or fail, describing what exactly happens. However there may be a cost to saying they fail.
+First Resolves any unresolved actions from the previous GMs. They can allow any players action to succeed or fail, describing what exactly happens. However there may be a cost to saying they fail, see **Skills** below.
 
 Second Resolves the Event Cards if there are any. The GM chooses whichever Event Card they like from the three Drawn cards, and describes what happened in as much detail as they like.
 
@@ -117,8 +121,20 @@ Story Arcs
 
 At the beginning of the game, each player chose a Story Arc card.  When a player completes this Story Arc, they win the game.  
 
-At any point if a player feels that their character has achieved the next mark on their "Story Arc" Card they declare it, and justify it to the group. If the group agrees that this has been achieved. They can mark it as complete.
+At any point if a player feels that their character has achieved the next mark on their "Story Arc" Card they declare it, and justify it to the group. The action should involve their character.
+
+If the group agrees that this has been achieved. They can mark it as complete.
 
 Once a player completes all items on their "Story Arc" card, they win the game.
 
+Skills
+------
 
+Each player starts the game with 4 Skills. 1 from the Role Card and 3 from their Skill Cards.
+
+A player can call upon any Skill they have whenever needed. These are usually things like "Lock Pick", or "Jump".  If a player can justify to the group that the thing they want their Character to do fits one of these tasks.  If they do, they gain a a token to put on that skill.
+
+If the next GM wishes for the player to fail an action they have skill in they, they must **bid**.
+
+Traits
+------
