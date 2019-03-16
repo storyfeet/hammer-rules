@@ -1,7 +1,3 @@
-Escalate:4
-    tp:Event
-    tx:Escalate the previous event.
-
 Pirates / Bandits
     tp:Event
 	tx:Do they arrive? Were they waiting? What do they want from you?

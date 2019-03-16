@@ -1,15 +1,36 @@
+
 Rom Com:
+	tp:Arc
     gl0:A chance meeting.
     gl1:A broken Heart.
     gl2:A friend in need.
     gl3:Some Bad advice.
     gl4:A fight.
     gl5:A second chance.
+	gl6:A kiss.
+
+The Traitor:
+	tp:Arc
+	gl0:A desire for power.
+	gl1:A useful friend.
+	gl2:A locked room.
+	gl3:An opportunity.
+	gl4:A kind gesture.
+	gl5:A betrayal
+	gl6:A desire fulfilled.
+
+WarChief:
 
 Redemtion Story:
 
 Journey Home:
-        
+	gl0:Far from home.
+	gl1:A friend for the road.
+	gl2:Bandits
+	gl3:A treasure untold.
+	gl4:A traitor.
+	gl5:An unfamiliar home.
+	gl6:A restoration.
 
 Rescue:
     gl0:Someone is missing.
@@ -18,19 +39,25 @@ Rescue:
     gl3:A loose end.
     gl4:A negotiation.
     gl5:A daring Escape.
+	gl6:A Reunion
 
 Hero:
     gl0:A Call to adventure.
     gl1:A discovery.
     gl2:Someone in Need.
     gl3:A change of heart.
-    gl4:A 
+    gl4:A plan
+	gl5:A failure
+	gl6:A triumph
+
 
 The Heist:
     gl0:A story of a treasure.
     gl1:Building a team.
-    gl2:A 
+    gl2:A plan.
     gl3:A trap.
+	gl4:A getaway.
+	gl5:
 
 
 
