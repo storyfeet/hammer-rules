@@ -74,9 +74,6 @@ Pacifist
     tp:Trait
 	tx:You want peace, globally, and locally. You will do whatever it takes to stop a fight between others.
 
-Passive Aggressive
-    tp:Trait
-	tx:You never tell people what you want or how they can help you. You only mention things that might be bothersome, and wonder why no one does anything.
 
 Mercenary
     tp:Trait

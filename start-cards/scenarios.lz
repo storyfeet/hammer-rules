@@ -18,3 +18,7 @@ Deserted Island:
 	tp:Scenario
 	tx:How did you get here? 
 
+Crime Scene
+	tp:Scenario
+	tx:What appears to have happened? What are the police doing about it? Who is trying to find out more?
+

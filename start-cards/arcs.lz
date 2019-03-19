@@ -20,10 +20,13 @@ The Traitor:
 	gl6:A desire fulfilled.
 
 WarChief:
+	tp:Arc
 
 Redemtion Story:
+	tp:Arc
 
 Journey Home:
+	tp:Arc
 	gl0:Far from home.
 	gl1:A friend for the road.
 	gl2:Bandits
@@ -33,6 +36,7 @@ Journey Home:
 	gl6:A restoration.
 
 Rescue:
+	tp:Arc
     gl0:Someone is missing.
     gl1:A Clue.
     gl2:An Injury.
@@ -42,6 +46,7 @@ Rescue:
 	gl6:A Reunion
 
 Hero:
+	tp:Arc
     gl0:A Call to adventure.
     gl1:A discovery.
     gl2:Someone in Need.
@@ -52,6 +57,7 @@ Hero:
 
 
 The Heist:
+	tp:Arc
     gl0:A story of a treasure.
     gl1:Building a team.
     gl2:A plan.

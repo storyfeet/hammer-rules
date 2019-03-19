@@ -40,11 +40,11 @@ Fayre
 
 Grand Opening
 	tp:Event	
-	tx:What is being opened? What famous people are coming? Does anyone want to meet them? What undesirables would come to an event like this?
+	tx:What is being opened? What famous people are coming? What undesirables would come to an event like this?
 
 Crime Scene
 	tp:Event
-	tx:Is someone dead? Has something been robbed? Can you offer assistence? To who?
+	tx:Is someone dead? Has something been robbed? Is anyone already investigating?
 
 Arrival
 	tp:Event

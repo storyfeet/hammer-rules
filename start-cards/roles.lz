@@ -1,75 +1,84 @@
 
-Sturdent Grille
+Priest:
 	tp:Role
-	tx:Priest
+	gl0:Sturdent Grille,
+	gl1:Ernest Tuck,
+	gl2:Glut Enfry,
+	Skill:Empathy
 
-King Restopat
+King
 	tp:Role
-	Trait:Manipulative	
+	gl0:Restopat,
+	gl1:George,
 	Skill:Strategist
 
-Prince Robert
+Prince
 	tp:Role
-	Trait:Pacifist
+	gl0:Robert,
+	gl1:Galabad,
+	gl2:Norbert,
 	Skill:Eloquent
 
-Princess Charmina
+Princess
 	tp:Role
-	tx:Immune to Persuasion
-	Trait:Rebelious	
+	gl0:Charmina,
+	gl1:Bertha,
+	gl2:Rowdeska,
+	gl3:Sabrina,
 	Skill:Stealth
 
-Ivy Malady
+Handmaid:
 	tp:Role
-	tx:Handmaid to ??
-	Trait:Honest
+	gl0:Ivy Malady,
+	gl1:Glenda Grumpsa,
+	gl2:Daisy Dropsita,
 	Skill:Tailor
 
 
-Commander Slimes
+Commander:
+	gl0:Staunch Slimes,
 	tp:Role
-	tx:Army Commander
 	Skill:Swordsman
-	Trait:Violent
 
-Ray Storping
+Body Guard:
 	tp:Role
-	tx:Body Guard
+	gl0:Ray Storping
 	Skill:Vigilance
-	Trait:Pessemistic
 
-Snide Rool
+Pilot:
 	tp:Role
-	tx:Mechanic
-	Skill:Pilot Anything
-	Trait:Reckless	
+	gl0:Sky Rider
+	Skill:Drive Anything
 
-Granny Wildersnax
+Mechanic:
 	tp:Role
-	tx:Grandmother of ??
+	gl0:Snide Rool
+	Skill:Fix Anything
+
+Mystic:
+	tp:Role
+	gl0:Granny Wildersnax,
+	gl1:Arenbella,
+	gl2:Meg,
+	gl3:Totom Tompo,
 	Skill:Came Prepared
-	Trait:Impulsive
 
-Ramble Grenkin
+Travelling Worker:
 	tp:Role
-	tx:Traveling Worker
-	Skill:MacGyver
-	Trait:Brave
+	gl0:Ramble Grenkin
+	Skill:Pick Pocket
 
-Styles Malone
+Detective:
+	gl0:Styles Malone
 	tp:Role
-	tx:Detective
 	Skill:Deception Detector
-	Trait:Smelly
 
-Goose Rogers
+Pirate Captain / Bandit Leader:
 	tp:Role
-	tx:Pirate Captain/Bandit Leader.
+	gl0:Goose Rogers
 	Skill:Brawler
-	Trait:Uncaring
 
-Loris McDonson
+Diplomat:
+	gl0:Loris McDonson
 	tp:Role
-	tx:Diplomat
-	Skill:Epathic
-	Trait:Secretive
+	Skill:Polyglot
