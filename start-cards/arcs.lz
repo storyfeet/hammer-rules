@@ -1,5 +1,4 @@
-
-Rom Com:
+True Love:
 	tp:Arc
     gl0:A chance meeting.
     gl1:A broken Heart.
@@ -9,7 +8,7 @@ Rom Com:
     gl5:A second chance.
 	gl6:A kiss.
 
-The Traitor:
+Power:
 	tp:Arc
 	gl0:A desire for power.
 	gl1:A useful friend.
@@ -22,8 +21,16 @@ The Traitor:
 WarChief:
 	tp:Arc
 
-Redemtion Story:
+Redemtion:
 	tp:Arc
+	gl0:A shame revealed.
+	gl1:A running away.
+	gl2:Some good advice.
+	gl3:A Crossroads.
+	gl4:An old aquaintence.
+	gl5:A second chance.
+	gl6:A new person.
+
 
 Journey Home:
 	tp:Arc
@@ -55,7 +62,6 @@ Hero:
 	gl5:A failure
 	gl6:A triumph
 
-
 The Heist:
 	tp:Arc
     gl0:A story of a treasure.
@@ -63,9 +69,34 @@ The Heist:
     gl2:A plan.
     gl3:A trap.
 	gl4:A getaway.
-	gl5:
+	gl5:The plan all along.
+	gl6:Dividing the spoils.
 
+Champion:
+	tp:Arc
+	gl0:A dream.
+	gl1:A superior rival.
+	gl2:A bet
+	gl3:An obscure rule.
+	gl4:A washed out mentor.
+	gl5:A backing out.
+	gl6:A victory.
 
+Vengence:
+	tp:Arc
 
+The Hunt:
+	tp:Arc
 
+Freedom:
+	tp:Arc
 
+Escort:
+	tp:Arc
+	gl0:A strange request.
+	gl1:What's in it for me?
+	gl2:A stowaway.
+	gl3:A capture.
+	gl4:A new transport.
+	gl5:A confrontation.
+	gl6:An Arrival.

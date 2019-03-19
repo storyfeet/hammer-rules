@@ -17,6 +17,7 @@ Prince
 	gl0:Robert,
 	gl1:Galabad,
 	gl2:Norbert,
+	gl3:Richie Rickrickman,
 	Skill:Eloquent
 
 Princess
@@ -42,12 +43,14 @@ Commander:
 
 Body Guard:
 	tp:Role
-	gl0:Ray Storping
+	gl0:Ray Storping,
+	gl1:Guardy McGuardface,
 	Skill:Vigilance
 
 Pilot:
 	tp:Role
-	gl0:Sky Rider
+	gl0:Sky Rider,
+
 	Skill:Drive Anything
 
 Mechanic:
