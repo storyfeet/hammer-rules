@@ -18,8 +18,16 @@ Power:
 	gl5:A betrayal
 	gl6:A desire fulfilled.
 
-WarChief:
+Victory:
 	tp:Arc
+	gl0:An enemy.
+	gl1:A Just Cause.
+	gl2:First blood.
+	gl3:An Ally
+	gl4:A battle.
+	gl5:A death.
+	gl6:A reckoning.
+
 
 Redemtion:
 	tp:Arc
@@ -84,12 +92,20 @@ Champion:
 
 Vengence:
 	tp:Arc
+	gl0:A bad history
+	gl1:
+	gl2:
+	gl3:
+	gl4:A meeting.
+	gl5:A mocking.
+	gl6:A demise.
 
 The Hunt:
 	tp:Arc
 
 Freedom:
 	tp:Arc
+	gl0:A speaker 
 
 Escort:
 	tp:Arc

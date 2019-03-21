@@ -1,9 +1,10 @@
-
 Priest:
 	tp:Role
 	gl0:Sturdent Grille,
-	gl1:Ernest Tuck,
-	gl2:Glut Enfry,
+	gl1:Ernest Every,
+	gl2:Shalom Lamon,
+	gl3:Kalifa Halp,
+	gl4:Burden Brisk,
 	Skill:Empathy
 
 King
@@ -11,6 +12,14 @@ King
 	gl0:Restopat,
 	gl1:George,
 	Skill:Strategist
+
+Merchant
+	tp:Role
+	gl0:Kit Mianthrot,
+	gl1:Abu Kaseem,
+	gl2:Peter Eater,
+	gl3:Sam Alam,
+	Skill:Barter
 
 Prince
 	tp:Role
@@ -26,6 +35,7 @@ Princess
 	gl1:Bertha,
 	gl2:Rowdeska,
 	gl3:Sabrina,
+	gl4:Bubble,
 	Skill:Stealth
 
 Handmaid:
