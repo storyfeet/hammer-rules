@@ -19,6 +19,7 @@ Merchant
 	gl1:Abu Kaseem,
 	gl2:Peter Eater,
 	gl3:Sam Alam,
+	gl4:Silky Steel
 	Skill:Barter
 
 Prince
@@ -74,6 +75,7 @@ Mystic:
 	gl1:Arenbella,
 	gl2:Meg,
 	gl3:Totom Tompo,
+	gl4:Astra Laplain
 	Skill:Came Prepared
 
 Travelling Worker:
@@ -83,12 +85,17 @@ Travelling Worker:
 
 Detective:
 	gl0:Styles Malone
+	gl1:Trudy Seat
+	gl2:Benetal Crumpetstash
 	tp:Role
 	Skill:Deception Detector
 
 Pirate Captain / Bandit Leader:
 	tp:Role
-	gl0:Goose Rogers
+	gl0:Goose Rogers,
+	gl1:Cpn Green-Wig,
+	gl2:Root Isme
+	gl3:Ali Grabber
 	Skill:Brawler
 
 Diplomat:
