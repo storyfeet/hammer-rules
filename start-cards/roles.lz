@@ -1,26 +1,23 @@
 Priest:
 	tp:Role
-	gl0:Sturdent Grille,
-	gl1:Ernest Every,
-	gl2:Shalom Lamon,
-	gl3:Kalifa Halp,
-	gl4:Burden Brisk,
-	Skill:Empathy
+	gl0:Ernest Every,
+	gl1:Shalom Lamon,
+	gl2:Kalifa Halp,
+	gl3:Burden Brisk,
 
 King
 	tp:Role
 	gl0:Restopat,
 	gl1:George,
-	Skill:Strategist
+	gl2:Miser Stripes,
+	gl3:Magnus Magnifique,
 
 Merchant
 	tp:Role
 	gl0:Kit Mianthrot,
 	gl1:Abu Kaseem,
 	gl2:Peter Eater,
-	gl3:Sam Alam,
-	gl4:Silky Steel
-	Skill:Barter
+	gl3:Silky Steel
 
 Prince
 	tp:Role
@@ -28,67 +25,65 @@ Prince
 	gl1:Galabad,
 	gl2:Norbert,
 	gl3:Richie Rickrickman,
-	Skill:Eloquent
 
 Princess
 	tp:Role
 	gl0:Charmina,
 	gl1:Bertha,
-	gl2:Rowdeska,
-	gl3:Sabrina,
-	gl4:Bubble,
-	Skill:Stealth
+	gl2:Sabrina,
+	gl3:Bubble,
 
 Handmaid:
 	tp:Role
 	gl0:Ivy Malady,
 	gl1:Glenda Grumpsa,
 	gl2:Daisy Dropsita,
-	Skill:Tailor
+	gl3:Gala
 
 
 Commander:
 	gl0:Staunch Slimes,
+	gl1:Yolanda Salamander,
+	gl2:Guzzling Gray,
 	tp:Role
-	Skill:Swordsman
 
 Body Guard:
 	tp:Role
 	gl0:Ray Storping,
 	gl1:Guardy McGuardface,
-	Skill:Vigilance
+	gl2:Sly Moocher,
 
 Pilot:
 	tp:Role
 	gl0:Sky Rider,
+	gl1:Iron Hide,
+	gl2:Dan Dash,
 
-	Skill:Drive Anything
 
 Mechanic:
 	tp:Role
 	gl0:Snide Rool
-	Skill:Fix Anything
+	gl1:Cameron Wheel
+	gl2:
 
 Mystic:
 	tp:Role
 	gl0:Granny Wildersnax,
 	gl1:Arenbella,
-	gl2:Meg,
-	gl3:Totom Tompo,
-	gl4:Astra Laplain
-	Skill:Came Prepared
+	gl2:Totom Tompo,
+	gl3:Astra Laplain
 
 Travelling Worker:
 	tp:Role
 	gl0:Ramble Grenkin
-	Skill:Pick Pocket
+	gl1:Lee Socks
+
 
 Detective:
+	tp:Role
 	gl0:Styles Malone
 	gl1:Trudy Seat
 	gl2:Benetal Crumpetstash
-	tp:Role
-	Skill:Deception Detector
 
 Pirate Captain / Bandit Leader:
 	tp:Role
@@ -96,7 +91,6 @@ Pirate Captain / Bandit Leader:
 	gl1:Cpn Green-Wig,
 	gl2:Root Isme
 	gl3:Ali Grabber
-	Skill:Brawler
 
 Diplomat:
 	gl0:Loris McDonson

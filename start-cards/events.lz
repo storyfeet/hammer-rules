@@ -6,7 +6,7 @@ Police
     tp:Event
 	tx:Do they arrive? Were they waiting? Did someone call them? Who do they work for?
 
-Clue:2
+Clue
     tp:Event
 	tx:Who discovers it? What does it look like? What does it mean? Does it help anyone?
 
@@ -16,7 +16,7 @@ Its a Trap
 
 Argument
     tp:Event
-	tx:Who is arguing? PC/NPC? What about? How loud?
+	tx:Who is arguing? What about? How loud?
 
 Fight
     tp:Event
@@ -24,11 +24,11 @@ Fight
 
 Long Lost Friend 
     tp:Event
-	tx:Draw 3 Growth Cards to describe. Who's friend? What are they like? What do they want?
+	tx:Who's friend? What are they like? What do they want?
 
 Mysterious Stranger
     tp:Event
-	tx:Draw 3 Growth cards to describe. Do they want something? How do they show? Can they help you? Might they hurt someone?
+	tx:Do they want something? How do they show? Can they help you? Might they hurt someone?
 
 Market
 	tp:Event

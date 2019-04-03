@@ -1,5 +1,5 @@
 True Love:
-	tp:Arc
+	tp:Goal
     gl0:A chance meeting.
     gl1:A broken Heart.
     gl2:A friend in need.
@@ -9,7 +9,7 @@ True Love:
 	gl6:A kiss.
 
 Power:
-	tp:Arc
+	tp:Goal
 	gl0:A desire for power.
 	gl1:A useful friend.
 	gl2:A locked room.
@@ -19,7 +19,7 @@ Power:
 	gl6:A desire fulfilled.
 
 Victory:
-	tp:Arc
+	tp:Goal
 	gl0:An enemy.
 	gl1:A Just Cause.
 	gl2:First blood.
@@ -30,7 +30,7 @@ Victory:
 
 
 Redemtion:
-	tp:Arc
+	tp:Goal
 	gl0:A shame revealed.
 	gl1:A running away.
 	gl2:Some good advice.
@@ -41,7 +41,7 @@ Redemtion:
 
 
 Journey Home:
-	tp:Arc
+	tp:Goal
 	gl0:Far from home.
 	gl1:A friend for the road.
 	gl2:Bandits
@@ -51,7 +51,7 @@ Journey Home:
 	gl6:A restoration.
 
 Rescue:
-	tp:Arc
+	tp:Goal
     gl0:Someone is missing.
     gl1:A Clue.
     gl2:An Injury.
@@ -61,7 +61,7 @@ Rescue:
 	gl6:A Reunion
 
 Hero:
-	tp:Arc
+	tp:Goal
     gl0:A Call to adventure.
     gl1:A discovery.
     gl2:Someone in Need.
@@ -71,7 +71,7 @@ Hero:
 	gl6:A triumph
 
 The Heist:
-	tp:Arc
+	tp:Goal
     gl0:A story of a treasure.
     gl1:Building a team.
     gl2:A plan.
@@ -81,7 +81,7 @@ The Heist:
 	gl6:Dividing the spoils.
 
 Champion:
-	tp:Arc
+	tp:Goal
 	gl0:A dream.
 	gl1:A superior rival.
 	gl2:A bet
@@ -91,7 +91,7 @@ Champion:
 	gl6:A victory.
 
 Vengence:
-	tp:Arc
+	tp:Goal
 	gl0:A bad history
 	gl1:Someone to tell.
 	gl2:A reason to heal.
@@ -101,14 +101,22 @@ Vengence:
 	gl6:A demise.
 
 The Hunt:
-	tp:Arc
+	tp:Goal	
+	gl0:A bounty
+	gl1:An unusual method.
+	gl2:A revealing conversation.
+	gl3:A chase.
+	gl4:A clue.
+	gl5:A fight.
+	gl6:A reward.
+	
 
-Freedom:
-	tp:Arc
-	gl0:A speaker 
+#Freedom:
+#	tp:Goal
+#	gl0:A speaker 
 
 Escort:
-	tp:Arc
+	tp:Goal
 	gl0:A strange request.
 	gl1:What's in it for me?
 	gl2:A stowaway.
