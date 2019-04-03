@@ -45,6 +45,7 @@ Commander:
 	gl0:Staunch Slimes,
 	gl1:Yolanda Salamander,
 	gl2:Guzzling Gray,
+	gl3:Raging Bull,
 	tp:Role
 
 Body Guard:
@@ -52,19 +53,22 @@ Body Guard:
 	gl0:Ray Storping,
 	gl1:Guardy McGuardface,
 	gl2:Sly Moocher,
+	gl3:
 
 Pilot:
 	tp:Role
 	gl0:Sky Rider,
 	gl1:Iron Hide,
 	gl2:Dan Dash,
+	gl3:Shifty Dodge,
 
 
 Mechanic:
 	tp:Role
-	gl0:Snide Rool
-	gl1:Cameron Wheel
-	gl2:
+	gl0:Snide Rool,
+	gl1:Cameron Wheel,
+	gl2:Greasy Mitts,
+
 
 Mystic:
 	tp:Role
@@ -75,24 +79,29 @@ Mystic:
 
 Travelling Worker:
 	tp:Role
-	gl0:Ramble Grenkin
-	gl1:Lee Socks
+	gl0:Ramble Grenkin,
+	gl1:Lee Socks,
+	gl2:Shifty Smith,
+	gl3:Pen Farthing,
 
 
 Detective:
 	tp:Role
-	gl0:Styles Malone
-	gl1:Trudy Seat
-	gl2:Benetal Crumpetstash
+	gl0:Styles Malone,
+	gl1:Trudy Seat,
+	gl2:Benetal Crumpetstash,
+	gl3:Smirk Bently,
 
 Pirate Captain / Bandit Leader:
 	tp:Role
 	gl0:Goose Rogers,
 	gl1:Cpn Green-Wig,
-	gl2:Root Isme
-	gl3:Ali Grabber
+	gl2:Root Isme,
+	gl3:Ali Grabber,
 
 Diplomat:
-	gl0:Loris McDonson
 	tp:Role
-	Skill:Polyglot
+	gl0:Loris McDonson,
+	gl1:Will Toplease,
+	gl2:Abe Akander,
+	gl3:Samuel Ham,
