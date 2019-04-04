@@ -1,10 +1,10 @@
 Manipulative
     tp:Trait
-	tx:Will always use underhanded or secretive ways to get what they want. Lays on heavy guilt where necessary.
+	tx:Will always use underhanded ways to get what they want. Lays on heavy guilt where necessary.
 
 Uncaring
     tp:Trait
-	tx:Nobody else matters. Nothing moves you.
+	tx:Nobody else's plight matters to you. 
 
 Proud
     tp:Trait
@@ -16,11 +16,11 @@ Coward
 
 Loyal to the Cause
     tp:Trait
-	tx:What cause? What are you willing to sacrifice for it?
+	tx:What is the cause? What are you willing to sacrifice for it?
 
 Loyal to friends.
 	tp:Trait
-	tx:What makes someone a friend? What shows loyalty? Will you lie for them? Will you rob for them? What will you do?
+	tx:What makes someone a friend? What shows loyalty? Will you lie for them? 
 
 Brave
     tp:Trait
@@ -28,15 +28,15 @@ Brave
 
 Greedy
     tp:Trait
-	tx:The sight of gold, or anything else of value can be very distracting. You may forget what you were doing, or why, just to get hold of it.
+	tx:The sight of gold, or anything else of value can be very distracting.
 
 Impulsive
     tp:Trait
-	tx:You react quickly, not necessarily smartly. You may Coerce GM with 1 dice to speak/go first.
+	tx:You react quickly, not necessarily smartly. 
 
 Measured
     tp:Trait
-	tx:You react slowly and deliberately. You may Coerce GM with 1 dice to speak/go last. 
+	tx:You react slowly and deliberately. 
 
 Sensitive
     tp:Trait
@@ -105,7 +105,7 @@ Optimist
 
 Pessimist
     tp:Trait
-	tx:You always assume bad things are about to happen. Avoid taking risks. Earn a Token as GM, when the worst possible thing happens.
+	tx:You always assume bad things are about to happen. Avoid taking risks. 
 
 Kind
     tp:Trait
@@ -123,10 +123,10 @@ Scary looking
     tp:Trait
 	tx:People avoid you when they see you. Talking to you makes them uncomfortable. Some even run away, especially children.
 
-
 Bitter
     tp:Trait
 	tx:Scorned by the world for too long, and wearied by everything. Now its time for the world to be scorned by you.
+	#Hard to act on perhaps. consider replacing
 
 Gossip:
 	tp:Trait
@@ -134,7 +134,7 @@ Gossip:
 
 Rebel:
 	tp:Trait
-	tx:You never do what you're told. Immune to Coersion.
+	tx:You never do what you're told. 
 
 Promise Keeper:
 	tp:Trait
