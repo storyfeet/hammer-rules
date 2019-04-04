@@ -56,7 +56,7 @@ Violent
 
 Patient
     tp:Trait
-	tx:You are happy to wait long periods without doing anything.\n For a purpose. You may pass your turn in a safe place or hiding to gain a dice.
+	tx:You are happy to wait long periods without doing anything.\n For a purpose.
 
 Smelly
     tp:Trait
@@ -64,11 +64,11 @@ Smelly
 
 Talkative
     tp:Trait
-	tx:There is nothing you will not talk to anyone about. You may miss out on important info, as you were too busy talking.
+	tx:You talk so much that you may miss out on important info, as you were too busy talking.
 
 Compassionate
     tp:Trait
-	tx:When you see someone in trouble or pain, you must help them. Often forgetting what you were doing, and no matter what it costs you.
+	tx:If you see someone in trouble, you must help them. Forgetting what you were doing, no matter the cost.
 
 Pacifist
     tp:Trait
@@ -97,7 +97,7 @@ Tight Fisted
 
 Generous
     tp:Trait
-	tx:You cannot see your needs compared to those of others. You love to give what you have to those around you. Not to be trusted with treasure.
+	tx:You love to give what you have to those around you. Not to be trusted with treasure.
 
 Optimist
     tp:Trait
@@ -113,15 +113,15 @@ Kind
 
 Cruel
     tp:Trait
-	tx:You take great delight in seeing people you dislike suffer. You dislike many people. Even your friends are careful to avoid your wrath.
+	tx:You take great delight in seeing people suffer. Even your friends are careful to avoid your wrath.
 
 Handsome / Beautiful
     tp:Trait
-	tx:People admire you wherever you go, and love to help you where they can. But some people might get jealous.
+	tx:People admire you wherever you go. They love to help you. But some people might get jealous.
 
 Scary looking
     tp:Trait
-	tx:People avoid you when they see you. Talking to you makes them uncomfortable. Some even run away, especially children.
+	tx:People avoid you when they see you. Some even run away, especially children.
 
 Bitter
     tp:Trait
@@ -138,9 +138,9 @@ Rebel:
 
 Promise Keeper:
 	tp:Trait
-	tx:Your word is your bond. If you say you will do something, then you will find a way to do it, no matter the cost.
+	tx:Your word is your bond. If you say you will do something, then you will. No matter the cost.
 
 Trickster
     tp:Trait
-    tx:To lead people on, to make traps. To get what you want by deception. To test your wits. This is a way of life, and one you love. 
+    tx:To lead people on, to make traps. To get what you want by deception. This is your way of life.
 

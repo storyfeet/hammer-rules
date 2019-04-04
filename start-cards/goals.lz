@@ -28,7 +28,6 @@ Victory:
 	gl5:A death.
 	gl6:A reckoning.
 
-
 Redemtion:
 	tp:Goal
 	gl0:A shame revealed.
@@ -104,7 +103,7 @@ The Hunt:
 	tp:Goal	
 	gl0:A bounty
 	gl1:An unusual method.
-	gl2:A revealing conversation.
+	gl2:A revealing chat.
 	gl3:A chase.
 	gl4:A clue.
 	gl5:A fight.
