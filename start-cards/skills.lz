@@ -1,54 +1,62 @@
 Lock Pick
     tp:Skill
 	tx:Open any door, chest or other lock.
+	extra:I open that chest...
 
-Swordsman
+Weapons Expert
     tp:Skill
 	tx:You win any fight as long as you have a sword.
+	extra:I attack him and take his bag...
 
 Stealth
     tp:Skill
 	tx:You can go anywhere unnoticed.
+	extra:I sneak past them to the ...
 
 Mechanic
     tp:Skill
 	tx:Can fix anything with moving parts.
+	extra:I repair the ...
 
 Polyglot
     tp:Skill
-	tx:Can speak to anyone, anywhere.
+	tx:Can speak any language, even Cockney. 
+	extra:I talk to the cat ...
 
 Persuasive
     tp:Skill
-	tx:NPCs want to do what you say. You may Coerce other players with 2 Dice to Persuade their PC. 
+	tx:People do what you say.
+	extra:I tell the guard to bring me the key...
 
 Dodge
     tp:Skill
 	tx:Can evade punches, projectiles, and nasty chores.
+	extra: I weave through the brawl to find ...
 
 Barter
     tp:Skill
-	tx:Trades with NPCs are always in your favour. You may Coerce other players with 1 dice to make lopsided trades with their characters.
+	tx:Trades are always in your favour.
+	extra:I give him this fish in exchange for ...
 
 Brawler
     tp:Skill
-	tx:You always come out on top in group fights or hand to hand combat.
+	tx:You always come out on top in hand to hand combat.
+	extra:I thrown him through a window ... 
 
 Tailor
     tp:Skill
 	tx:Can dress themselves and anyone else to fit any occasion
-
+	extra: I dress as a princess ... 
+	
 Artist
     tp:Skill
-	tx:Great works of art open all kinds of doors. Copies can be quite persuasive too.
+	tx:Great works of art open all kinds of doors. Copies too.
+	extra: I create a copy of the artifact ...
 
 Actor
     tp:Skill
-	tx:Conman. Take on any role that suits you.
-
-Etiquet:
-    tp:Skill
-	tx:The upper eschalons of society will believe you are one of them. Even if you are not.
+	tx:You can be anyone if needed.
+	extra: I act as an official to ... 
 
 Strategist
     tp:Skill
@@ -57,34 +65,37 @@ Strategist
 Medic
     tp:Skill
 	tx:Can heal any ailment, as long as you can get hold of the needed ingredients/equipment. 
+	extra: I sew their arm back on ...
 
 Sniper
     tp:Skill
 	tx:Projectiles always hit their mark, whatever that mark might be.
+	extra: I throw it my hat at the switch behind the guard ... 
 
 MacGyver
     tp:Skill
     tx:Can combine any two things into something 
-
-Explosives Expert
-    tp:Skill
-	tx:Can break through anything as long as you don't mind a bit of noise? May need equipment.
+	extra: I put the eagles wings onto the car to make an aeroplane ...
 
 Pilot
     tp:Skill
     tx:Can drive any vehicle 
+	extra: I drive the chariot up the ravine ... 
 
 Jumper
     tp:Skill
     tx:Can make massive and precise leaps
+	extra: I jump from my ship onto the pirates ship ...
 
 Vigilance
 	tp:Skill
 	tx:Nothing can sneak up on you.
+	extra:I see 
 
-Walking Compass
+Lore Expert
 	tp:Skill
-	tx:You always know where you are, and the direction you need to go.
+	tx:Knows about all kinds of things that no-one could expect.
+	extra: I remember that all Escondian ships are made with a ...
 
 Observant
 	tp:Skill
@@ -102,7 +113,6 @@ Wisdom
 	tp:Skill
 	tx:Your advice always works, and you listen to it yourself.
 
-
 Charming
     tp:Skill
 	tx:Your silky voice and way with words draw people to love you. Especially good at making friends with old ladies.
@@ -113,16 +123,20 @@ Came Prepared
 
 Empathic
     tp:Skill
-	tx:Just looking at someone you can understand their feelings about any issue, and you can feel much of their life story too.
+	tx:Just looking at someone you can understand their whole life story.
 
 Swimmer
 	tp:Skill
-	tx:You can swim long distances, and quickly. Even upstream is no problem. Up Sewers ... if you want.
+	tx:You can swim long distances, and quickly. Even upstream or sewers.
 
 Pick Pocket
 	tp:Skill
-	tx:You can take anything from anyone without them noticing. PCs cannot react without giving you two dice.
+	tx:You can take anything from anyone without them noticing.
 
 Speed
 	tp:Skill
-	tx:You can get anywhere quicker than anyone else. You can react fast, to any physical action.
+	tx:You can get anywhere quicker than anyone else. You always react fast.
+
+
+#Walking Compass
+#Explosives Expert
