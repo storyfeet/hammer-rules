@@ -53,14 +53,7 @@ Body Guard:
 	gl0:Ray Storping,
 	gl1:Guardy McGuardface,
 	gl2:Sly Moocher,
-	gl3:
-
-Pilot:
-	tp:Role
-	gl0:Sky Rider,
-	gl1:Iron Hide,
-	gl2:Dan Dash,
-	gl3:Shifty Dodge,
+	gl3:Daring Dash,
 
 
 Mechanic:
@@ -68,7 +61,6 @@ Mechanic:
 	gl0:Snide Rool,
 	gl1:Cameron Wheel,
 	gl2:Greasy Mitts,
-
 
 Mystic:
 	tp:Role
@@ -105,3 +97,11 @@ Diplomat:
 	gl1:Will Toplease,
 	gl2:Abe Akander,
 	gl3:Samuel Ham,
+
+#Pilot:
+#	tp:Role
+#	gl0:Sky Rider,
+#	gl1:Iron Hide,
+#	gl2:Dan Dash,
+#	gl3:Shifty Dodge,
+

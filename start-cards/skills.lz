@@ -137,6 +137,10 @@ Speed
 	tp:Skill
 	tx:You can get anywhere quicker than anyone else. You always react fast.
 
+Climb
+	tp:Skill
+	tx:Scale anything even soapy marble.
+	extra:I climb on the giant's back ...
 
 #Walking Compass
 #Explosives Expert

@@ -1,9 +1,9 @@
 #title:The Shoehorn Circle
 #css:"
-code{
+pre{
     margin-left:10px;
     padding:5px;
-    background:grey;
+    background:#bbbbbb;
 }
 "
 
@@ -12,11 +12,11 @@ A competetive storytelling game.
 Overview
 ---------
 
-Each player takes on the **Role** of a character, created by drawing cards. All characters are in the same story and each has their own **Story Arc** that they must complete. Players collectively tell the same story with each trying to advance their own character through their Story Arc.
+Each player takes on the **Role** of a character, created by drawing cards. All characters are in the same story and each has their own **Goal** that they must complete. Players collectively tell the same story with each trying to advance their own character towards their Goal.
 
-Player will earn dice and Victory Points by acting in accordance with their characters traits and skills. They may then use these dice to **Bid** for the chance to become **GM**(Games Master) and direct the next portion of the story.
+Player will earn dice and Victory Points by acting in accordance with their characters **Traits** and **Skills**. They may then use these dice to **Bid** for the chance to become **GM**(Games Master) and direct the next portion of the story.
 
-As **GM** Players are actively encouraged to direct the story in a direction that helps their own character achieve his/her Story Arc.
+As **GM** Players are actively encouraged to direct the story in a direction that helps their own character achieve his/her Goal.
 
 
 Equipment
@@ -29,21 +29,23 @@ Equipment
     * Whodunnit
 * Character Cards :
     * Role
-    * Story Arc
+    * Goal
     * Trait
     * Skill
 * Many Dice 
 
-Key Concept: Bidding
+Key Concept: Bid For GM
 -----------------
 
-All conflict resolution in Shoehorn Circle is done by bidding dice.
+Throughout the story players will have opportunities to Bid to become GM.
 
-For example, Becoming the next Games Master (GM) or Succeeding of Failing at an action.
+To do this first, all players reveal how many dice the have. If any player has None, they recieve 1. 
 
-To do this, all players eligable to bid, begin by hiding all of their dice, choosing a number to bid, putting that many dice forward in their closed fist.
+The all players hide all of their dice. They then select a number to bid by putting that many in a closed fist in the middle of the table. (Leaving the rest hidden behind their other hand.)
 
-Once all players have put forward their bid. All players reveal how many dice they bid, and then roll them. The player with the highest roll wins the bid, and pays those dice to the bank.
+Once all players have put forward their bid. All players reveal the dice in their hand and then roll them. 
+
+The player with the highest roll wins the bid, and pays those dice and becomes the next GM.
 
 All other players keep the dice they bid.
 
@@ -51,18 +53,56 @@ Troubleshooting:
 
 * If there is a tie, the players who tied roll all their dice again.
 * If no-one bids any dice, all players must bid one dice.
-* If no-one has any dice, all players are given one from the bank. 
+
+Key Concept : Resolving Actions
+---------------------
+
+Before a GM change, all players should have chosen what they want to do next. Whenever someone becomes GM, they will have to resolve all of these actions. That is, say what succeeds and what fails, and what else happens as a result.
+
+The GM is free to declare any action a success. 
+But to declare an action a failure, they must roll the difficulty of the action against the characters ability.
+
+    Note: In most cases, the GM can simply say that the character fails, and only have to do go through this if players contest it. Even so the calculation should be quite quick.
+
+To calculate the characters ability: (Do this before the Difficulty)
+
+* For each Skill or Role the character has, that players agree would make the task easier both:
+    - Add 2 points.
+    - Add 1 point per token on the Skill card.
+* For each fact **already established** that would make the task easier:
+    - Add 1 point.
+* For each dice any player wants to pay to increase the characters odds of success
+    - Add 1 point.
+
+To calculate the difficulty:
+
+* For each fact **already established** that would make the task harder:
+    - Add 1 point.
+* For each dice any player wants to pay to decrease the characters odds of success.
+    - Add 1 point.
+
+The GM rolls one D6 dice, and adds it's value to the difficulty if this is greater than the players ability, then the character fails at the action.
+
+Once all failures and successes have been resolved. The GM must explain exactly what happened in detail.
 
 Setup
 -----
 
+There are three distinct phases involved in setting up the game:
+
+* Character Building
+* World Building
+* Scenario Building
+
 ### Character Building
 
-Separate the cards by type and shuffle them individually.
+Each player is taking on the role of a character in the story. These characters are built from combinations of the Character cards.
+
+Separate the cards by type and shuffle them.
 
 Deal Cards to each player :
 * 2 Role Cards
-* 2 Story Arc Cards
+* 2 Goal Cards
 * 4 Trait Cards
 * 4 Skill Cards
 
@@ -71,21 +111,26 @@ Each player must choose 1 of each type of card to discard. The rest make up thei
 Each player then places all of their chosen cards face up in front of them so all players can see them.  
 
 Troubleshooting:
-* If a player has two identical, or irresolvably opposite, skills or traits, or they are allowed to discard and replace one of them with fromm the top of the draw pile.
+* If a player has two identical, or irresolvably opposite, skills or traits (eg. Tall and Short), they are allowed to discard and replace one of them with from the top of the draw pile.
 
 Give each player 8 dice 
 
-### Scene Building
+### World Building
 
-In a random order players each draw a Scene Setter Card, and answer the question on the card.
+The Lore Cards are used to build facts about the story world that help set the scene for the story.
+
+In a random order players each draw a Lore Card, and answer the question on the card.
 
     Example: "Describe a recent invention" can be anything from "the wheel" to "Hyperspace travel".
 
-Draw the top two Scenario Cards:
+Each player should give a relatively detailed description of the required item.  
 
 ### Scenario Building
 
-Players now bid. The winner becomes GM and chooses one of the two drawn  Scenario Cards. Answers all questions on the card, and describes the scenario in detail. They then ask each other player who they are and why they are here. 
+The scenario cards exist to find a reason that a group of radically differen characters could be together.
+Draw the top two Scenario Cards:
+
+Players now **Bid for GM**. The new GM chooses one of the two drawn  Scenario Cards. Answers all questions on the card, and describes the scenario in detail. They then ask each other player who they are and why they are here. 
 
 The GM then draws the top three Event cards and places them face up on the table.
 
@@ -116,25 +161,38 @@ Once all players have decided what they would like to do, if the GM feels the pl
 
 After that the GM must end their turn, and a new bid for GM begins.
 
-Story Arcs
-----------
+Cards in Detail
+--------------
 
-At the beginning of the game, each player chose a Story Arc card.  When a player completes this Story Arc, they win the game.  
+### Role Cards
 
-At any point if a player feels that their character has achieved the next mark on their "Story Arc" Card they declare it, and justify it to the group. The action should involve their character.
+Each player must take on a role in this story. These are Job titles, and a list of names.  The player may choose any name they wish, the given names are only intended as helpful suggestions.
 
-If the group agrees that this has been achieved. They can mark it as complete.
+The role however is fixed.
 
-Once a player completes all items on their "Story Arc" card, they win the game.
+### Goal Cards
 
-Skills
+The aim of the game is for a player to complete their Goal, If they do this,they become the main character of the story, and win the game.  
+
+A Goal card represents the players story arc. The items on the card must be completed in order. 
+
+The first goal-item may be part of the characters backstory. The rest, however must be completed in an active way in the present. It is possible that the player will be the subject or object of the goal-item.
+
+    example: "A betrayal" could be that your character betrays someone, or that someone betrays your character.
+    It may not however be a reference to something that happened a long time ago, unless it was the 1st Goal Item on the card.
+
+At any point, if a player feels that their character has achieved the next mark on their Goal Card, they declare, and justify, it to the group, and if the group agrees, they mark it complete.
+
+### Skills
 ------
 
-Each player starts the game with 4 Skills. 1 from the Role Card and 3 from their Skill Cards.
+Each player starts the game with 3 Skills Cards. These are usually things like "Lock Pick", or "Jump".
 
-A player can call upon any Skill they have whenever needed. These are usually things like "Lock Pick", or "Jump".  If a player can justify to the group that the thing they want their Character to do fits one of these tasks.  If they do, they gain a a token to put on that skill.
+Whenever a player chooses an action to do, If that action would be made easier because of a skill they have, they may place a token on,(or otherwise mark) that Skill.
 
-If the next GM wishes for the player to fail an action they have skill in they, they must **bid**.
+If the current GM wishes for them to fail at this action. The player gains ability of 2 points for having the Skill, and 1 more point for every token on that Skill.
 
 Traits
 ------
+
+
