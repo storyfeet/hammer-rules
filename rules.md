@@ -34,18 +34,32 @@ Equipment
     * Skill
 * Many Dice 
 
+Key Concept: Games Master (GM)
+---------------
+
+Many Role Play Games (RPGs) have the concept of a Games Master(GM). The job of the GM is generally to lead the narrative of the game by acting as the rest of the world, while the other players take on the role of a single character.
+
+This can be a lot of work for one person.
+
+Shoehorn Circle is different because it does not have **one** GM. Instead, each player takes turns to be the GM, through a bidding mechanism which we will discuss later.
+
+While a player is GM, it is their job to direct the narrative of the story, and they are actively encouraged to do so in a manner that helps fulfil their own Goals.
+
+To do this, they are allowed to say what anything in the world does, except for the other Players Characters(PCs). To find out what the other PCs do they must ask the other players. Questions like "What do you do?" are normally sufficient.
+
+
 Key Concept: Bid For GM
 -----------------
 
 Throughout the story players will have opportunities to Bid to become GM.
 
-To do this first, all players reveal how many dice the have. If any player has None, they recieve 1. 
+To do this first, all players reveal how many dice the have. If any player has no dice, they recieve 1 from the Dice Bank (The pile of unassigned dice).
 
-The all players hide all of their dice. They then select a number to bid by putting that many in a closed fist in the middle of the table. (Leaving the rest hidden behind their other hand.)
+All players hide all of their dice. They then select a number to bid by putting that many in a closed fist in the middle of the table. (Leaving the rest hidden behind their other hand.)
 
 Once all players have put forward their bid. All players reveal the dice in their hand and then roll them. 
 
-The player with the highest roll wins the bid, and pays those dice and becomes the next GM.
+The player with the highest roll wins the bid, and pays those dice to the Dice Bank, and becomes the next GM.
 
 All other players keep the dice they bid.
 
@@ -59,8 +73,9 @@ Key Concept : Resolving Actions
 
 Before a GM change, all players should have declared what actions they want to do next. Whenever someone becomes GM, they will have to resolve all of these actions. That is, say what succeeds and what fails, and what else happens as a result.
 
-The GM is free to declare any action a success. 
-But to declare an action a failure, they must roll the difficulty of the action against the characters ability.
+The GM is free to declare any action a success.  But in order to declare an action a failure, they must roll the difficulty of the action against the characters ability.
+
+### Role Against an Action
 
     Note: In most cases, the GM can simply say that the character fails, and only have to do go through this if players contest it. Even so the calculation should be relatively quick.
 
@@ -128,15 +143,16 @@ Each player should give a relatively detailed description of the required item.
 ### Scenario Building
 
 The scenario cards exist to find a reason that a group of radically different characters could be together.
-Draw the top two Scenario Cards:
+
+First : Draw the top two Scenario Cards.
 
 Players now **Bid for GM**. The new GM chooses one of the two drawn  Scenario Cards. Answers all questions on the card, and describes the scenario in detail. They then ask each other player who they are and why they are here. 
 
 The GM then draws the top three Event cards and places them face up on the table.
 
-After this begin normal play.
+The GM then asks the other players what their characters would like to do. They may also describe their own players actions.
 
-Finally the play
+After this begin normal play.
 
 Normal Play
 -----------
@@ -150,6 +166,8 @@ First Resolves any unresolved actions from the previous GMs. They can allow any 
 Second Resolves the Event Cards if there are any. The GM chooses whichever Event Card they like from the three Drawn cards, and describes what happened in as much detail as they like.
 
 Finally leads the next short stint of Role-play, during which time they may.
+* Give more information about the scene
+* Introduce new problems
 * Introduce new Non Player Characters (NPCs)
 * Act on behalf of any NPCs
 * Converse with any other player as any NPCs 
@@ -166,13 +184,15 @@ A Consistent Story
 
 As the story progresses, things will be learned about the world, it's history and lore, along with the players own stories and back-stories.
 
-As soon as anything happens (and is allowed by the dice if necessary), it becomes cannon: A part of the history of the world.  No player can change these facts, or add anything that is inconsistent with the already agreed on facts.
+As soon as anything happens (and is allowed by the dice if necessary), it becomes cannon: A part of the history of the world.  No player, Not even the GM, can change these facts or add anything that is inconsistent with the already agreed on facts. 
 
 It may be helpful to use the data-sheets to keep track of this.
 
 If a player tries to do something, that established facts would make impossible, the other players may challenge them on this. If the facts are irreconcilable, then the new action cannot be done.
 
 This is also true when adding back-story. If the back-story someone is telling cannot be made to fit with established facts, then it did not happen.
+
+**If any player takes advantage of any established Lore they may take a dice from the Dice Bank**
 
 Cards in Detail
 --------------
@@ -198,17 +218,67 @@ For all goals, the player's character may be the subject or object of the goal-i
 
 At any point, if a player feels that their character has achieved the next mark on their Goal Card, they declare, and justify, it to the group, and if the group agrees, they mark it complete.
 
-
-### Skills
-------
+### Skill Cards
 
 Each player starts the game with 3 Skills Cards. These are usually things like "Lock Pick", or "Jump".
 
 Whenever a player chooses an action to do, If that action would be made easier because of a skill they have, they may place a token on,(or otherwise mark) that Skill.
 
+Players do not need to have a Skill card to attempt any action, but having the skill makes it harder for the next GM to say no.
+
 If the current GM wishes for them to fail at this action. The player gains ability of 2 points for having the Skill, and 1 more point for every token on that Skill.
 
-Traits
-------
+#### Passive Skills
+
+Some skills could be called passive skills, such as "Vigilance", "Observant" and "Lore Expert". These skill allow a player to add information to the world without actually doing anything. 
+
+For example :
+
+* Lore Expert :"I remember that the king of Pastyland never eats pasties."
+* Observant : "I notice a hole in the wall"
+* Vigilance : "I hear two policemen overhead"
+
+As with other skill cards, players do not need to have these cards to attempt these kinds of actions. But having the Skill card makes you more likely to be right.
+
+In this case the resolution of the action is to state whether or not the observation is correct.
+
+Example :
+* Lore Expert: "The king refuses to eat the pasty, and takes your advice" / "The king eats the pasty, and throws you in the dungeon."
+* Observant : "Yes it is a hole big enough for you to climb through" / "It turns out to be a black mark, you bang your head into it.
+* Vigilance : "The two policemen see you struggling, and come to your aid" / "There's no-one there"
+
+### Trait Cards
+
+Character traits can be positive and negative. For example Honest could easily get a person in trouble, especially if someone else in the group is not behaving well.
+
+Whenever a character acts in line with their traits, they may put a token on that trait and take a dice from the Dice Bank. If acting in line with that trait creates trouble for them, then they may take two tokens and dice.  
+
+#### Physical Traits
+
+Some traits are less about character and more about appearance. While it is possible to deliberately use some of these, like Tall, to reach for things. It is more likely that they will affect how other people react to you.
+
+In the case where this happens, both the GM who made it happen and the player it happened to receive 1 dice for positive results, or 2 dice for negative. The player with the trait may also add a counter to it.
 
 
+### Whodunnit Cards
+
+There are occasions where something has happened, for example a murder, and someone is to blame. It is easy for everyone to believe that someone else did.  The problem is, that someone had to have done it. 
+
+This is where the Whodunnit Cards come in.
+
+There are two types of Whudunnit Cards.
+
+* 1 \* "You",
+* 6 \* "Not You".
+
+Shuffle one "Not You" card for each player with the "You card". Deal 1 card to each player then place the last card back on the pile.
+
+Each player now knows whether or not they did it. This is a game Fact. The person the cards say did it, did it. Players may reveal their cards whenever they see fit. But remember, just because the players know doesn't mean that their characters do.
+
+### Lore Cards
+
+
+
+### Scenario Cards
+
+### Event Cards
