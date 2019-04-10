@@ -90,7 +90,7 @@ Jumper
 Vigilance
 	tp:Skill
 	tx:Nothing can sneak up on you.
-	extra:I see 
+	extra:I see someone coming...
 
 Lore Expert
 	tp:Skill
@@ -100,47 +100,50 @@ Lore Expert
 Observant
 	tp:Skill
 	tx:You Spot clues everywhere
-
-Perceptive
-	tp:Skill
-	tx:You can spot deceit any where.
+	extra:I notice a nail file in corner of the room...
 
 Strong
 	tp:Skill
 	tx:You can lift incredibly heavy things, and break others.
+	extra:I throw the cannon at the mast...
 
-Wisdom
-	tp:Skill
-	tx:Your advice always works, and you listen to it yourself.
-
-Charming
-    tp:Skill
-	tx:Your silky voice and way with words draw people to love you. Especially good at making friends with old ladies.
 
 Came Prepared
 	tp:Skill
 	tx:Remembered to pack exactly what you'd need. Can produce almost anything from your bag.
+	extra:Its a good thing I remembered to bring my ...
 
 Empathic
     tp:Skill
 	tx:Just looking at someone you can understand their whole life story.
+	extra:I realize he is just looking for love...
 
 Swimmer
 	tp:Skill
-	tx:You can swim long distances, and quickly. Even upstream or sewers.
+	tx:You can swim long distances, and quickly. Even upstream.
+	extra:I swim up the sewer pipe ...
 
 Pick Pocket
 	tp:Skill
 	tx:You can take anything from anyone without them noticing.
+	extra:I take his keys without him noticing...
 
 Speed
 	tp:Skill
 	tx:You can get anywhere quicker than anyone else. You always react fast.
+	extra:I run to tell the boss first...
 
 Climb
 	tp:Skill
 	tx:Scale anything even soapy marble.
 	extra:I climb on the giant's back ...
 
-#Walking Compass
+Walking Map
+	tp:Skill
+	tx:You know where you are, and where everything is within miles.
+	extra:I remember that there is a tavern just north of here ...
+
 #Explosives Expert
+#Perceptive
+#Wisdom
+#Charming

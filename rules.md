@@ -57,18 +57,18 @@ Troubleshooting:
 Key Concept : Resolving Actions
 ---------------------
 
-Before a GM change, all players should have chosen what they want to do next. Whenever someone becomes GM, they will have to resolve all of these actions. That is, say what succeeds and what fails, and what else happens as a result.
+Before a GM change, all players should have declared what actions they want to do next. Whenever someone becomes GM, they will have to resolve all of these actions. That is, say what succeeds and what fails, and what else happens as a result.
 
 The GM is free to declare any action a success. 
 But to declare an action a failure, they must roll the difficulty of the action against the characters ability.
 
-    Note: In most cases, the GM can simply say that the character fails, and only have to do go through this if players contest it. Even so the calculation should be quite quick.
+    Note: In most cases, the GM can simply say that the character fails, and only have to do go through this if players contest it. Even so the calculation should be relatively quick.
 
 To calculate the characters ability: (Do this before the Difficulty)
 
-* For each Skill or Role the character has, that players agree would make the task easier both:
-    - Add 2 points.
-    - Add 1 point per token on the Skill card.
+* For each Skill or Role the character has that would make the task easier both:
+    - Add 3 points.
+    - Add 1 point for every 2 tokens on the Skill card.
 * For each fact **already established** that would make the task easier:
     - Add 1 point.
 * For each dice any player wants to pay to increase the characters odds of success
@@ -111,7 +111,7 @@ Each player must choose 1 of each type of card to discard. The rest make up thei
 Each player then places all of their chosen cards face up in front of them so all players can see them.  
 
 Troubleshooting:
-* If a player has two identical, or irresolvably opposite, skills or traits (eg. Tall and Short), they are allowed to discard and replace one of them with from the top of the draw pile.
+* If a player has two identical, or irresolvably opposite, skills or traits (e.g. Tall and Short), they are allowed to discard and replace one of them with from the top of the draw pile.
 
 Give each player 8 dice 
 
@@ -127,7 +127,7 @@ Each player should give a relatively detailed description of the required item.
 
 ### Scenario Building
 
-The scenario cards exist to find a reason that a group of radically differen characters could be together.
+The scenario cards exist to find a reason that a group of radically different characters could be together.
 Draw the top two Scenario Cards:
 
 Players now **Bid for GM**. The new GM chooses one of the two drawn  Scenario Cards. Answers all questions on the card, and describes the scenario in detail. They then ask each other player who they are and why they are here. 
@@ -149,7 +149,7 @@ First Resolves any unresolved actions from the previous GMs. They can allow any 
 
 Second Resolves the Event Cards if there are any. The GM chooses whichever Event Card they like from the three Drawn cards, and describes what happened in as much detail as they like.
 
-Finally leads the next short stint of Roleplay, during which time they may.
+Finally leads the next short stint of Role-play, during which time they may.
 * Introduce new Non Player Characters (NPCs)
 * Act on behalf of any NPCs
 * Converse with any other player as any NPCs 
@@ -161,14 +161,27 @@ Once all players have decided what they would like to do, if the GM feels the pl
 
 After that the GM must end their turn, and a new bid for GM begins.
 
+A Consistent Story
+------------------
+
+As the story progresses, things will be learned about the world, it's history and lore, along with the players own stories and back-stories.
+
+As soon as anything happens (and is allowed by the dice if necessary), it becomes cannon: A part of the history of the world.  No player can change these facts, or add anything that is inconsistent with the already agreed on facts.
+
+It may be helpful to use the data-sheets to keep track of this.
+
+If a player tries to do something, that established facts would make impossible, the other players may challenge them on this. If the facts are irreconcilable, then the new action cannot be done.
+
+This is also true when adding back-story. If the back-story someone is telling cannot be made to fit with established facts, then it did not happen.
+
 Cards in Detail
 --------------
 
 ### Role Cards
 
-Each player must take on a role in this story. These are Job titles, and a list of names.  The player may choose any name they wish, the given names are only intended as helpful suggestions.
+Each player will choose 1 Role card. Each Role card has a Job Title at the top, and a list of suggested character names.   The player must take on the Job title, but they may name their character anything they wish.
 
-The role however is fixed.
+This Role represents the players character who must complete the activities on the Goal Card in order to win the game.
 
 ### Goal Cards
 
@@ -176,12 +189,15 @@ The aim of the game is for a player to complete their Goal, If they do this,they
 
 A Goal card represents the players story arc. The items on the card must be completed in order. 
 
-The first goal-item may be part of the characters backstory. The rest, however must be completed in an active way in the present. It is possible that the player will be the subject or object of the goal-item.
+The first goal-item may be part of the characters back-story. The rest, however must be completed in an active way in the present. 
+
+For all goals, the player's character may be the subject or object of the goal-item.
 
     example: "A betrayal" could be that your character betrays someone, or that someone betrays your character.
     It may not however be a reference to something that happened a long time ago, unless it was the 1st Goal Item on the card.
 
 At any point, if a player feels that their character has achieved the next mark on their Goal Card, they declare, and justify, it to the group, and if the group agrees, they mark it complete.
+
 
 ### Skills
 ------
