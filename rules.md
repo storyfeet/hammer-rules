@@ -130,6 +130,8 @@ Troubleshooting:
 
 Give each player 8 dice 
 
+After each player has chosen their cards, deal three Skill, and three Trait cards face up in the middle of the table.  At any point a player may pay 4 dice to the Dice Bank in order to buy one of these skills or traits.  When they do this they must explain how their character learned it.
+
 ### World Building
 
 The Lore Cards are used to build facts about the story world that help set the scene for the story.
@@ -275,10 +277,4 @@ Shuffle one "Not You" card for each player with the "You card". Deal 1 card to e
 
 Each player now knows whether or not they did it. This is a game Fact. The person the cards say did it, did it. Players may reveal their cards whenever they see fit. But remember, just because the players know doesn't mean that their characters do.
 
-### Lore Cards
 
-
-
-### Scenario Cards
-
-### Event Cards
